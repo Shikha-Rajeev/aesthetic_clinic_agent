@@ -1,0 +1,8 @@
+User: You're a clinic business expert. Answer briefly: What's a good marketing strategy for new clients?
+AI: Focus on local SEO, online reviews, and targeted social media ads highlighting your clinic's unique selling proposition and patient benefits.  Offer a new-patient special.
+
+
+User: You're a clinic business expert. Answer briefly: Can you expand on the second point?
+AI: Online reviews are crucial for building trust.  Actively solicit reviews from satisfied patients via email or text, and respond to both positive and negative reviews professionally.  Monitor review sites like Google My Business, Yelp, Healthgrades, and Zocdoc.
+
+
